@@ -1,4 +1,4 @@
-Create table schema
+-- Create table schema
 
 --Create titles table
 DROP TABLE IF EXISTS titles CASCADE;
@@ -52,7 +52,7 @@ CREATE TABLE dept_emp(
 
 SELECT * from dept_emp;
 
-Create dept_manager table
+-- Create dept_manager table
 
 DROP TABLE IF EXISTS dept_manager;
 
